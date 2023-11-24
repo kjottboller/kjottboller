@@ -8,7 +8,7 @@
   - Skillfactory: курс "Профессия Data Scientist"
 
   ### 📚 Проекты 📚
-  * Кликни [сюда](https://github.com/kjottboller/data_science/tree/master) чтобы посмотреть мои проекты
+* Кликни [сюда](https://github.com/kjottboller/data_science/tree/master) чтобы посмотреть мои проекты
 
 ### 💡 Ключевые навыки 💡
 - Python,
@@ -23,4 +23,4 @@
   
 ### 💬 Свяжись со мной
 - [Telegram](https://t.me/kjottboller)
-- [VK}(https://vk.com/kjottboller)
+- [VK](https://vk.com/kjottboller)
