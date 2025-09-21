@@ -11,9 +11,8 @@
 **Оригинальный датасет: [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)**  
   - [Проект 1. Анализ резюме из HH](https://github.com/kjottboller/sf_data_science/blob/master/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20(PJ-01)/Project-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.ipynb)
   - [Проект 2. Анализ вакансий из HH](https://github.com/kjottboller/sf_data_science/tree/master/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B8%D0%B7%20HH%20(PJ-02))
-  - [Проектирование экспериментов в *comet*](https://github.com/kjottboller/sf_data_science/blob/master/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20(HW-03)/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.ipynb)
   - [Задачки Python](https://github.com/kjottboller/sf_data_science/blob/master/%D0%90%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20Python/%D0%90%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D1%8F%201.%20Python.ipynb)
-  - ⭐️ [Конкурс **SHIFT** «Кредитный скоринг»](EQCLfvbkTrdUJ1wfyNI9uOdcK30z1wbWWX060mrXBNwp2Tse)
+  - ⭐️ [Конкурс **SHIFT** «Кредитный скоринг»](https://github.com/kjottboller/coding_adventures/blob/master/Credit%20scoring%202025/competition.ipynb) – *private*
 
 ### 💡 Ключевые навыки
 - Python
