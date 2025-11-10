@@ -17,7 +17,9 @@
 - Python
 - SQL
 - Английский язык
-  
-### 📲💬 Связь со мной
+
+### 📲💬 Связь со мной – @kjottboller
+- [Kaggle](https://www.kaggle.com/kjottboller)
+- [GitLab](https://gitlab.com/kjottboller)
 - [Telegram](https://t.me/kjottboller)
 - [VK](https://vk.com/kjottboller)
