@@ -18,11 +18,10 @@
 - ![Pandas](https://camo.githubusercontent.com/d36168278bd9dea0a866198f8d2aa883f7f59ffc23b93ef2c5a5fd4fe29b21e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f6c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
 
 ### 📲💬 Связь со мной – @kjottboller
-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kjottboller)
-  
-- [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kjottboller)
-- [![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kjottboller)
-- [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kjottboller)
+- [Kaggle](https://www.kaggle.com/kjottboller)
+- [GitLab](https://gitlab.com/kjottboller)
+- [Telegram](https://t.me/kjottboller)
+- [VK](https://vk.com/kjottboller)
   
   
 ![MSI](https://img.shields.io/badge/MSI%20laptop-FF0000?style=for-the-badge&logo=msi&logoColor=white)
