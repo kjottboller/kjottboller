@@ -5,7 +5,7 @@
 * Новосибирский государственный технический университет: 19.04.04 – Технология продукции и организация общественного питания (2022-2024)
 * Skillfactory: курс "Профессия Data Scientist"
 
-### ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ⚙🔩 Проекты 
+### ⚙🔩 Проекты 
   - [Задача с Kaggle. Причины оттока клиентов из банка](https://github.com/kjottboller/sf_data_science/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%BA%D0%B8%20%D0%B8%D0%B7%20Kaggle%20(HW-01)/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%D0%B7%20Kaggle.ipynb)
   - [Задача с Kaggle. Исследование данных HR-агентства](https://github.com/kjottboller/sf_data_science/blob/master/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20HR-%D0%B0%D0%B3%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%B0%20(HW-02)/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20HR-%D0%B0%D0%B3%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%B0.ipynb).  
 **Оригинальный датасет: [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)**  
@@ -20,9 +20,10 @@
 
 ### 📲💬 Связь со мной – @kjottboller
 - [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kjottboller)
+  
 - [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kjottboller)
 - [![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kjottboller)
 - [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kjottboller)
-
-
+  
+  
 ![MSI](https://img.shields.io/badge/MSI%20laptop-FF0000?style=for-the-badge&logo=msi&logoColor=white)
