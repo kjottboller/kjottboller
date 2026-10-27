@@ -100,29 +100,6 @@ ROC-AUC, F1, precision/recall, MAE/RMSE — с пониманием, какая 
 
 ---
 
-### 🖥 Рабочее место
-
-<details>
-<summary>My rig</summary>
-
-```
-CPU ......... AMD Ryzen 5 7500F
-COOLER ...... DeepCool AG620 G2 White
-GPU ......... GIGABYTE RTX 5060 Ti GAMING OC 16G
-RAM ......... 32GB DDR5-5600 ADATA XPG Lancer Blade
-MOBO ........ MSI MAG B850 GAMING PLUS MAX WIFI
-PSU ......... Cougar GEX 850 SNOW 850W 80+ Gold
-CASE ........ Cougar CFV235 Mesh (White)
-SSD ......... Kingston NV3 2TB M.2 NVMe
-OS .......... Windows 11 Pro x64
-DISPLAY ..... 2x MSI MAG 274QRFW E20 — 2560x1440 @ 200Hz
-KEYBOARD .... MSI Vigor GK50 Low Profile
-MOUSE ....... ARDOR GAMING Phantom PRO Nordic
-HEADSET ..... ARDOR GAMING Vault
-```
-
-</details>
-
 ---
 
 <p align="center">
